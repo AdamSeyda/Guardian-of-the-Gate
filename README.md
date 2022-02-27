@@ -7,7 +7,7 @@ It was my end of the semester project for Basics of Programming, done during fir
 The game is a simple rpg where you fight against waves of enemy, getting stronger with each enemy defeated.
 The enemies you fight against are generated with slight randomization, while their strength is based on your progress.
 You may also save the game if you wish, to return to it at a later time.
-The game ends once you lose to too many enemies, or once you get through 100 days.
+The game ends once you lose against too many enemies, or once you get through 100 days.
 
 The build folder contains all the files required to run the game.
 The code folder contains all the code, before creating a build.
