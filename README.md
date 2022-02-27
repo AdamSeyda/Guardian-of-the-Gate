@@ -9,6 +9,9 @@ The enemies you fight against are generated with slight randomization, while the
 You may also save the game if you wish, to return to it at a later time.
 The game ends once you lose to too many enemies, or once you get through 100 days.
 
+The build folder contains all the files required to run the game.
+The code folder contains all the code, before creating a build.
+
 /
 
 PL
@@ -19,3 +22,6 @@ Sama gra to prosty rpg gdzie walczysz z falami przeciwników, rosnąc w siłę z
 Przeciwnicy są generowani losowo, gdzie postęp w grze jest podstawą ich siły.
 Grę ma system zapisu.
 Przegrywa się gdy zostanie się pokonanym zbyt wiele razy. Wygrywa się, jeśli przetrwa się 100 dni.
+
+Folder build zawiera wszystko co jest potrzebne do uruchomienia gry.
+Folder code zawiera kod sprzed utworzenia pliku exe.
